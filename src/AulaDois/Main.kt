@@ -1,4 +1,4 @@
-
+package AulaDois
 // 1 - Escreva um programa em Kotlin que recebe uma lista de 5 números inteiros
 // como entrada e calcule a média desses números. Certifique-se de lidar com casos
 // em que a lista pode estar vazia.
